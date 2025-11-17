@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vinayak Naik&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak Naik&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vinayak-naik-02878625a&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak-naik-02878625a&layout=compact&theme=tokyonight" />
 </p>
 
 ---
