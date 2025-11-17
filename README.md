@@ -65,8 +65,8 @@
 ## 📊 GitHub Stats (Dark Theme)
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=botakeprayas&show_icons=true&theme=tokyonight" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=botakeprayas&layout=compact&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=vinayak1837k&show_icons=true&theme=tokyonight" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinayak1837&layout=compact&theme=tokyonight" />
 </p>
 
 ---
