@@ -73,7 +73,7 @@
 
 ## 🌐 Connect with Me  
 <p>
-<a href="https://www.linkedin.com/in/prayas-botake-172171341" target="_blank">
+<a href="https://www.linkedin.com/in/vinayak-naik-02878625a/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </p>
