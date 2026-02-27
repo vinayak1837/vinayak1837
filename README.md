@@ -54,10 +54,11 @@
 ---
 
 ## 📂 Featured Projects  
-- 🧠 **Adidas Sales Dashboard (Interactive Dashboard creation using MS excel)**  
-- 📊 **Sales Dashboard — Power BI**  
+- 🧠 **Crop recommendation system using Machine Learning**
+- 📈 **Gold price prediction using Machine Learning **
+- 📊 **DMart Sales Dashboard — Power BI , SQL**  
 - 📈 **Data Visualization — Seaborn & Matplotlib**  
-- 🗄️ **Hospital_Emegency_room_SQL_Projecte**  
+- 🗄️ **Customer churn Prediction (EDA)**  
 - 🔍 **EDA & Feature Engineering on Real Datasets**  
 
 ---
